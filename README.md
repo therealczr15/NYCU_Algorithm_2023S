@@ -1,1 +1,1 @@
-# NYCU_Algorithm_2023_Spring
+# NYCU Algorithm 2023 Spring
