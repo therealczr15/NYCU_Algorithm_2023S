@@ -3,7 +3,7 @@
 ## Course Information
 - Title : Introduction to Algorithm
 - Semester : Spring 2023
-- Professor : Jiun-Hung Yu
+- Professor : Jiun-Hung, Yu
 
 ## Grade
 - Grade: A+
