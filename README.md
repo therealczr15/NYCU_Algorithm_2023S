@@ -1,4 +1,4 @@
-# NYCU Introduction to Algorithm Spring 2023
+# Spring 2023 NYCU Introduction to Algorithm
 
 ## Course Information
 - Title : Introduction to Algorithm
