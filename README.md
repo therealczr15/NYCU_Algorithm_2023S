@@ -7,9 +7,6 @@
 
 ## Grade
 - Grade: A+
-- The professor did not disclose the detailed scores for the HWs.
-- Both the midterm and final exam papers were collected after the exams.
-- I didn’t record my scores, I only know that my final grade was A+.
 
 |HW          |Topic                        |
 |:-----------|:----------------------------|
